@@ -1,0 +1,15 @@
+[Project]
+FileName=C:\Dev-Pas\project\antrian.dp
+Name=antrian
+MainUnit=C:\Dev-Pas\project\antrianPrioritas.pas
+UnitCount=1
+ResFiles=C:\Dev-Pas\project\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=E:\Developer\Tugas Struktur Data\favicon.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=C:\Dev-Pas\project\antrianPrioritas.pas
+FileTime=1393207651
